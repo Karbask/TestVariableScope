@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestVariableScope/1.0.0": {
+        "runtime": {
+          "TestVariableScope.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestVariableScope/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

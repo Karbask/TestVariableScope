@@ -1,0 +1,14 @@
+C:\Workspace\cSharProjects\TestVariableScope\bin\Debug\net8.0\TestVariableScope.exe
+C:\Workspace\cSharProjects\TestVariableScope\bin\Debug\net8.0\TestVariableScope.deps.json
+C:\Workspace\cSharProjects\TestVariableScope\bin\Debug\net8.0\TestVariableScope.runtimeconfig.json
+C:\Workspace\cSharProjects\TestVariableScope\bin\Debug\net8.0\TestVariableScope.dll
+C:\Workspace\cSharProjects\TestVariableScope\bin\Debug\net8.0\TestVariableScope.pdb
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\TestVariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\TestVariableScope.AssemblyInfoInputs.cache
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\TestVariableScope.AssemblyInfo.cs
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\TestVariableScope.csproj.CoreCompileInputs.cache
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\TestVariableScope.dll
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\refint\TestVariableScope.dll
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\TestVariableScope.pdb
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\TestVariableScope.genruntimeconfig.cache
+C:\Workspace\cSharProjects\TestVariableScope\obj\Debug\net8.0\ref\TestVariableScope.dll
